@@ -1,4 +1,14 @@
-# MEDICOS
+# BANCO DE DADOS
+
+> Configurar os dados de conexão em application.properties e na classe com.desafio.ConDB
+
+> Criar um schema antes de iniciar a aplicação conforme a primeira instrução
+
+> Rodar o seguinte script referente aos dados que não serão criados via sistema: script.sql
+
+
+
+# ENTIDADE - MEDICOS
 
 >NOVO MÉDICO
 
