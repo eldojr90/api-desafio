@@ -97,3 +97,4 @@
 
 -Url: <dns>/consulta/excluir/{data(dd/mm/yyyy), hora(hh:mm) ou timestamp(yyyy-mm-dd hh:mm:ss)}	
 
+LgRetails
